@@ -1,8 +1,6 @@
 # IEEE_template__LaTex
 In this repository is available an IEEE template for LaTeX plataforms.
 
-#### [GitHub](https://github.com/Amigs) 
-
 El archivo disponibe es de extensión .tex que es fácilmente portable a pltaformas que manejan LaTeX:
 |**Plataform**|*Download*|_Wiki_|
 |---------|--------|----|
@@ -13,3 +11,6 @@ El archivo disponibe es de extensión .tex que es fácilmente portable a pltafor
 
 
 Entre otros...
+
+
+#### [Profil GitHub](https://github.com/Amigs) 

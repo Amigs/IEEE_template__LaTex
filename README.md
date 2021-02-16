@@ -11,6 +11,3 @@ El archivo disponibe es de extensión .tex que es fácilmente portable a pltafor
 
 
 Entre otros...
-
-
-#### [Profil GitHub](https://github.com/Amigs) 

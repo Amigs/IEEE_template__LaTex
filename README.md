@@ -1,5 +1,5 @@
 # IEEE_template__LaTex
-In this repository is available an IEEE template for LaTeX plataforms.
+In this repository is available an IEEE template for LaTeX platforms.
 
 El archivo disponibe es de extensión .tex que es fácilmente portable a pltaformas que manejan LaTeX:
 |**Plataform**|*Download*|_Wiki_|

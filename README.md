@@ -1,7 +1,8 @@
 # IEEE_template__LaTex
 In this repository is available an IEEE template for LaTeX platforms.
 
-El archivo disponibe es de extensión .tex que es fácilmente portable a pltaformas que manejan LaTeX:
+El archivo disponibe es de extensión .tex que es fácilmente portable a pltaformas que manejan LaTeX, por otro lado esta el archivo .zip tambien en algunas plataformas requerido para importar:
+
 |**Plataform**|*Download*|_Wiki_|
 |---------|--------|----|
 |Visual Studio Code|[Code VisualStudio](https://code.visualstudio.com/)|[LaTeX-Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)|
